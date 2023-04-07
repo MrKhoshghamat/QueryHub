@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z0gBSRle/6b2mqehXchcWJPKHNWZ1VFqScu/MrwJ/p0=",
+  "Source": "QueryHub.WebApi",
+  "BasePath": "_content/QueryHub.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

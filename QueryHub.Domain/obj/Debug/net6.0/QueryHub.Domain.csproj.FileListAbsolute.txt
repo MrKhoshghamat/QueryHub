@@ -1,0 +1,14 @@
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\bin\Debug\net6.0\QueryHub.Domain.deps.json
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\bin\Debug\net6.0\QueryHub.Domain.runtimeconfig.json
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\bin\Debug\net6.0\QueryHub.Domain.dll
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\bin\Debug\net6.0\QueryHub.Domain.pdb
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.csproj.AssemblyReference.cache
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.AssemblyInfoInputs.cache
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.AssemblyInfo.cs
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.csproj.CoreCompileInputs.cache
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.dll
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\refint\QueryHub.Domain.dll
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.pdb
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\QueryHub.Domain.genruntimeconfig.cache
+E:\Media\Documents\My Projects\QueryHub\QueryHub.Domain\obj\Debug\net6.0\ref\QueryHub.Domain.dll

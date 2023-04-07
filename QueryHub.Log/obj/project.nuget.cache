@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbAfTk1iWg6zgM8Ek0T73vjCL0/efL0Qm9aPCSM6FmTGG6AzaSPeTLDpZ4ZU76qp+wslYiZwMZqbnIdXwSmaOQ==",
+  "success": true,
+  "projectFilePath": "E:\\Media\\Documents\\My Projects\\QueryHub\\QueryHub.Log\\QueryHub.Log.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huracan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.9\\microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Huracan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.9\\microsoft.windowsdesktop.app.ref.6.0.9.nupkg.sha512",
+    "C:\\Users\\Huracan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.9\\microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
